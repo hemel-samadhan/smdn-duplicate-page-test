@@ -1,0 +1,1 @@
+# smdn-duplicate-page-test
