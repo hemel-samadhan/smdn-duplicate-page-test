@@ -385,5 +385,5 @@ if (!class_exists('duplicate_page')):
             );
         }
     }
-new duplicate_page_test();
+new duplicate_page();
 endif;
