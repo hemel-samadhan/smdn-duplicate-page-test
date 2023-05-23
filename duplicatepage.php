@@ -8,6 +8,10 @@ Version: 4.4.9
 Author URI: https://profiles.wordpress.org/mndpsingh287/
 License: GPLv2
 Text Domain: duplicate-page
+
+GitHub Plugin URI: https://github.com/hemel-samadhan/smdn-duplicate-page-test.git
+Primary Branch: main
+Release Asset: true
 */
 if (!defined('DUPLICATE_PAGE_PLUGIN_DIRNAME')) {
     define('DUPLICATE_PAGE_PLUGIN_DIRNAME', plugin_basename(dirname(__FILE__)));
